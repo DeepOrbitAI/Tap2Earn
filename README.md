@@ -12,7 +12,7 @@ Tap2Earn is the first-ever WordPress plugin that enables users to earn coins by 
 
 ## Installation  
 
-1. **Download** the `.wpress` backup file. **[HERE]([https://deeporbitai.github.io](https://mega.nz/file/7SQEkQra#6hufzjmK0t8-GYM7NXYhs6VkUzJIdfZpRjhptHpXQJI))**  
+1. **Download** the `.wpress` backup file **[HERE](https://mega.nz/file/7SQEkQra#6hufzjmK0t8-GYM7NXYhs6VkUzJIdfZpRjhptHpXQJI)**
 2. **Import** it into your WordPress installation.  
 3. **Log in** with the default credentials:  
    - **Username:** `a`  
