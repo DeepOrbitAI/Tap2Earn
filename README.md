@@ -7,7 +7,7 @@ Tap2Earn is the first-ever WordPress plugin that enables users to earn coins by 
 
 - **Tap-to-Earn System** – Users can earn coins simply by tapping.  
 - **MyCred Integration** – Utilizes MyCred as the coin/point management system.  
-- **Pre-Built WordPress Site** – Comes with a ready-to-use website.  
+- **Pre-Built WordPress Site** – Comes with a ready-to-use website (only mobile).
 - **Easy Customization** – Fully editable using **Elementor**.  
 
 ## Installation  
