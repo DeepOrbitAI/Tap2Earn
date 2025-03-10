@@ -29,15 +29,11 @@ Tap2Earn is the first-ever WordPress plugin that enables users to earn coins by 
 
 The plugin is released under the **MIT License**, allowing modifications and redistribution with proper attribution.  
 
-### About DeepOrbit & Disclaimer  
+### About DeepOrbit 
 
-DeepOrbit is a small team of independent developers creating innovative side projects. While we strive to build useful tools, they are **not full-scale commercial products**.  
-
-🚨 **No Guarantees, No Liability**  
-- The software is provided **as-is** with no guarantees of bug-free operation.  
-- DeepOrbit is **not responsible** for data loss, performance issues, or security risks related to this software.  
+DeepOrbit is a small team of independent developers creating innovative side projects.
 
 ## Contact  
 
-For support, bug reports, or domain verification requests, visit:  
+For support, bug reports, or any verification requests, visit:  
 🔗 **[deeporbitai.github.io](https://deeporbitai.github.io)**
